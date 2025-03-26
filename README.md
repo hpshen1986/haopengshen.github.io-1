@@ -11,11 +11,6 @@ Email: hpshen@nju.edu.cn
 
 [Here is my CV.](https://github.com/haopengshen/haopengshen.github.io/blob/main/Haopeng_Shen_CV.pdf)
 
-
-# Working Papers
-1. Urban Growth, Land Scarcity and Heterogeneous Monetary Policy Effects.
-with Ninghui Li and Tian Xia
-
 # Publications
 
 1. Monetary Policy Rules and Opinionated Markets. with Pengfei Jia, Shikun Zheng.
